@@ -8,27 +8,27 @@
 
 |**Mòdul Professional 6: Desenvolupament web en entorn client**
 |:---|
-|[**MP06-UF01**](../MP06-UF01/README.md): Sintaxi del llenguatge: Objectes predefinits del llenguatge 
-|[**MP06-UF02**](../MP06-UF02/README.md): Estructures definides pel programador: Objectes
-|[**MP06-UF03**](../MP06-UF03/README.md): Esdeveniments: Manegament de formularis: Model d'objectes del document
-|[**MP06-UF04**](../MP06-UF04/README.md): Comunicació asíncrona client-servidor 
+|[**MP06-UF01**](./MP06-UF01/README.md): Sintaxi del llenguatge: Objectes predefinits del llenguatge 
+|[**MP06-UF02**](./MP06-UF02/README.md): Estructures definides pel programador: Objectes
+|[**MP06-UF03**](./MP06-UF03/README.md): Esdeveniments: Manegament de formularis: Model d'objectes del document
+|[**MP06-UF04**](./MP06-UF04/README.md): Comunicació asíncrona client-servidor 
 
 |**Mòdul Professional 8: Desplegament d’aplicacions web**
 |:---|
-|[**MP08-UF01**](../MP08-UF01/README.md): Servidors web i de transferència de fitxers
-|[**MP08-UF02**](../MP08-UF02/README.md): Servidors d'aplicacions web 
-|[**MP08-UF03**](../MP08-UF03/README.md): Desplegament d'aplicacions web
-|[**MP08-UF04**](../MP08-UF04/README.md): Control de versions i documentació
+|[**MP08-UF01**](./MP08-UF01/README.md): Servidors web i de transferència de fitxers
+|[**MP08-UF02**](./MP08-UF02/README.md): Servidors d'aplicacions web 
+|[**MP08-UF03**](./MP08-UF03/README.md): Desplegament d'aplicacions web
+|[**MP08-UF04**](./MP08-UF04/README.md): Control de versions i documentació
 
 |**Mòdul Professional 9: Disseny d’interfícies web**
 |:---|
 |**MP09-UF01**: Disseny de la interfície: Estils
 |**MP09-UF02**: Elements multimèdia: creació i integració
-|[**MP08-UF03**](../MP08-UF08/README.md): Accessibilitat i usabilitat (<- **Joan**)
+|[**MP08-UF03**](./MP08-UF08/README.md): Accessibilitat i usabilitat (<- **Joan**)
 
 |**Mòdul Professional 12: Projecte de desenvolupament d'Aplicacions Web**
 |:---|
-|[**MP12-UF01**](../MP12-UF01/README.md): Projecte de desenvolupament d'Aplicacions Web
+|[**MP12-UF01**](./MP12-UF01/README.md): Projecte de desenvolupament d'Aplicacions Web
 
 # Instruccions
 
