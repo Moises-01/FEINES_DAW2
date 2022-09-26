@@ -24,8 +24,13 @@
 |:---|
 |**MP09-UF01**: Disseny de la interfície: Estils
 |**MP09-UF02**: Elements multimèdia: creació i integració
-|**MP09-UF03**: Accessibilitat i usabilitat
+|**MP09-UF03**: Accessibilitat i usabilitat (<- **Joan**)
+
+|**Mòdul Professional 12: Projecte de desenvolupament d'Aplicacions Web**
+|:---|
 |**MP12-UF01**: Projecte de desenvolupament d'Aplicacions Web
+
+|:---|
 |**MP15-UF01**: Dual
 
 # Instruccions
